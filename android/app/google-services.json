@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "745107244082",
+    "project_id": "insta-clo-faa3a",
+    "storage_bucket": "insta-clo-faa3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745107244082:android:16f093710c61e7ff9d282b",
+        "android_client_info": {
+          "package_name": "com.example.flut_startup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745107244082-itoncqlunphkse6ku7t42b46mptpaeno.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfj33uMOalzGdHJh20kCYfnWB_x9a7N4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745107244082-itoncqlunphkse6ku7t42b46mptpaeno.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
